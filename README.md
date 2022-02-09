@@ -1,7 +1,7 @@
 # Notas de Estudos de Python 🐍
 Python é uma linguagem *interpretada*(o que é discutível), portável e com "baterias inclusas". No 
 python utilizaremos o padrão de escrita snake_type, ou seja, utilizaremos a separação de termos com 
-o underscore(_), por exemplo, nomearemos uma função faz_algo e não fazAlgo nem fazalgo.
+o underscore(_), por exemplo, nomearemos uma função faz_algo, não iremos utilizar a notação fazAlgo nem fazalgo.
 ## O que eu já aprendi até agora?
  - [x] Sintaxe básica e a filosofia de funcionamento do python.
  - [x] Tópicos comuns à maioria das linguagens de programação (arquivo, io, estruturas de dados).
