@@ -7,6 +7,7 @@ o underscore(_), por exemplo, nomearemos uma função faz_algo, não iremos util
  - [x] Tópicos comuns à maioria das linguagens de programação (arquivo, io, estruturas de dados).
  - [x] Estruturas de dados built in (lists, tuples).
  - [ ] Orientação a objetos.
+### Notas importantes
 Para executar um arquivo python na linha de comando basta digitar:
 ``` python arquivo.py ```
 
