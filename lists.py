@@ -13,3 +13,14 @@ print("Numbers antes da ordenação", numbers)
 numbers.sort()
 print("Numbers depois da ordenação", numbers)
 print(f"Temos {len(names)} nomes na lista")
+
+inteiros = [1,3,4,5,7,8,9]
+pares = []
+pares2 = []
+for numero in inteiros:                                     # populando a lista com loop
+    if numero % 2 == 0:
+        pares.append(numero)
+pares2 = [numero for numero in inteiros if numero % 2 == 0] # populando a lista com list comprehension
+ 
+print(pares)
+print(pares2)
