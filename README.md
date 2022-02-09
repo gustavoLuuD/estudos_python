@@ -20,3 +20,7 @@ desfocada devido à presença do compilador de bytecode."
 
 Eis uma discussão no *stack overflow* sobre:
 https://stackoverflow.com/questions/6889747/is-python-interpreted-or-compiled-or-both
+
+#### Orientação a objetos
+Nomes de classes utilizão a notação de camel case, por exemplo, podemos ter uma classe chamada NovaClasse e não
+nova_classe ou novaclasse.
