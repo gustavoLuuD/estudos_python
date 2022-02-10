@@ -24,3 +24,7 @@ https://stackoverflow.com/questions/6889747/is-python-interpreted-or-compiled-or
 #### Orientação a objetos
 Nomes de classes utilizão a notação de camel case, por exemplo, podemos ter uma classe chamada NovaClasse e não
 nova_classe ou novaclasse.
+
+Construtores em python são criados utilizando um método chamado ``__init__``.
+
+Atributos privados devem ser representados utilizando o __, apesar do python não utilizar a palavra private em si.
